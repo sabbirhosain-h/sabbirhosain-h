@@ -2,12 +2,12 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" alt="Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
 </p>
 
 <!-- NAME & DESIGNATION -->
 <h1 align="center">Hi 👋, I'm Sabbir Hosain</h1>
-<h3 align="center">Web Developer | CSE Student</h3>
+<h3 align="center">Web Developer | CSE Student | AI Enthusiast</h3>
 
 ---
 
@@ -19,7 +19,7 @@ Hello! I am a passionate Web Developer with a strong foundation in JavaScript an
 
 <!-- CURRENT ACTIVITIES (BULLET POINTS) -->
 ## 🚀 Current Activities
-*   🔭 I’m currently working on a **Library-to-Home Delivery System (BookCourier)**.
+*   🔭 I’m currently working on a ** Scentific Calulator **.
 *   🌱 I’m exploring **Next.js** and advanced state management.
 *   💻 Designing a modern web-based **Scientific Calculator** project.
 *   🌍 Open to collaborating on interesting open-source projects.
@@ -52,14 +52,12 @@ Hello! I am a passionate Web Developer with a strong foundation in JavaScript an
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirhosain-h&show_icons=true&theme=radical" alt="Sabbir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhosain-h&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+
+<h2 align="left">📊 GitHub Stats</h2>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosain-h&theme=radical" alt="GitHub Streak" width="97%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosain-h&theme=radical" alt="GitHub Streak" width="100%"/>
 </p>
 
 ---
@@ -67,13 +65,13 @@ Hello! I am a passionate Web Developer with a strong foundation in JavaScript an
 <!-- SOCIAL LINKS -->
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sabbir-hosain-hasib-70a773350/" target="_blank">
+  <a href="[https://www.linkedin.com/in/sabbir-hosain-hasib-70a773350/](https://www.linkedin.com/in/sabbir-hosain-hasib-70a773350/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/SabbirHosainHasib1524" target="_blank">
+  <a href="[https://www.facebook.com/SabbirHosainHasib1524](http://facebook.com/SabbirHosainHasib09)" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sabbirhosain298@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://shh-portfolio-09.vercel.app/" target="_blank">
