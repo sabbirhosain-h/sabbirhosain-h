@@ -65,10 +65,10 @@ Hello! I am a passionate Web Developer with a strong foundation in JavaScript an
 <!-- SOCIAL LINKS -->
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/sabbir-hosain-hasib-70a773350/](https://www.linkedin.com/in/sabbir-hosain-hasib-70a773350/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sabbir-hosain-hasib/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://www.facebook.com/SabbirHosainHasib1524](http://facebook.com/SabbirHosainHasib09)" target="_blank">
+  <a href="http://facebook.com/SabbirHosainHasib09" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:sabbirhosain298@gmail.com.com">
